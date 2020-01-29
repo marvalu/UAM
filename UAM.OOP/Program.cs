@@ -51,7 +51,9 @@ namespace UAM.OOP
             //myGenericClass1.genericMethod("abcd");
 
 
-            
+            Colecciones colecciones = new Colecciones();
+            colecciones.ListaString();
+
 
 
             Console.ReadKey();
